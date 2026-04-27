@@ -123,4 +123,3 @@ function EventChat() {
 }
 
 export default EventChat;
-export default EventChat;
